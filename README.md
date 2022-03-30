@@ -13,7 +13,7 @@ This analysis aims to evaluate a school district data to identify if budget, siz
 **After:**
 ![District_Summary_Final.png](analysis/District_Summary_Final.png)
 
-- The school summary has changed only in the Thomas High School row, highlighted in the images below. Values for average math and reading scores, reading, math, and overall percentages changed slightly after removing the 9th graders'data.
+- The school summary has changed only in the Thomas High School row, highlighted in the images below. Values for average math and reading scores, reading, math, and overall percentages changed slightly after removing the 9th graders' data.
 
 **Before:**
 ![School_Summary_before_cleansing.png](analysis/School_Summary_before_cleansing.png)
