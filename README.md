@@ -7,36 +7,36 @@ This analysis aims to evaluate a school district data to identify if budget, siz
 
 - In the district summary the affected values were 
 
-![District_Summary_before_cleansing.png]("analysis/District_Summary_before_cleansing.png)
-![District_Summary_Final.png]("analysis/District_Summary_Final.png)
+![District_Summary_before_cleansing.png]("analysis\District_Summary_before_cleansing.png)
+![District_Summary_Final.png]("analysis\District_Summary_Final.png)
 
 - The school summary was the data frame with the most relevant changes, in the images below is possible to compare the data from TRhomas High School before and after removing the 9th graders’ scores
-![School_Summary_before_cleansing.png]("analysis/School_Summary_before_cleansing.png)
-![School_Summary_Final.png]("analysis/School_Summary_Final.png)
+![School_Summary_before_cleansing.png]("analysis\School_Summary_before_cleansing.png)
+![School_Summary_Final.png]("analysis\School_Summary_Final.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
-    ![Math_score_by_grade_before_cleansing.png]("analysis/Math_score_by_grade_before_cleansing.png)
-    ![Math_score_by_grade_final.png]("analysis/Math_score_by_grade_final.png)
+    ![Math_score_by_grade_before_cleansing.png]("analysis\Math_score_by_grade_before_cleansing.png)
+    ![Math_score_by_grade_final.png]("analysis\Math_score_by_grade_final.png)
 
-    ![Reading_score_by_grade_before_cleansing.png]("analysis/Reading_score_by_grade_before_cleansing.png)
-    ![Reading_score_by_grade_final.png]("analysis/Reading_score_by_grade_final.png)
+    ![Reading_score_by_grade_before_cleansing.png]("analysis\Reading_score_by_grade_before_cleansing.png)
+    ![Reading_score_by_grade_final.png]("analysis\Reading_score_by_grade_final.png)
 
     - Scores by school spending
-    ![School_Spending_before_cleansing.png]("analysis/School_Spending_before_cleansing.png)
-    ![School_spending_final.png]("analysis/School_spending_final.png)
+    ![School_Spending_before_cleansing.png]("analysis\School_Spending_before_cleansing.png)
+    ![School_spending_final.png]("analysis\School_spending_final.png)
     
     - Scores by school size
 
-    ![School_size_before_cleansing.png]("analysis/School_size_before_cleansing.png)
-    ![School_size_final.png]("analysis/School_size_final.png)
+    ![School_size_before_cleansing.png]("analysis\School_size_before_cleansing.png)
+    ![School_size_final.png]("analysis\School_size_final.png)
     
     - Scores by school type
-    ![School_type_before_cleansing.png]("analysis/School_type_before_cleansing.png)
-    ![School_type_final.png]("analysis/School_type_final.png)
+    ![School_type_before_cleansing.png]("analysis\School_type_before_cleansing.png)
+    ![School_type_final.png]("analysis\School_type_final.png)
 
 
 ## Summary
