@@ -33,7 +33,7 @@ This analysis aims to evaluate a school district data to identify if budget, siz
     
     ![Reading_score_by_grade_final.png](analysis/Reading_score_by_grade_final.png)
 
-    - The other data frames do not present any change. Even though they are using updated values after cleaning data, the difference is not significant enough to change the output. Below are the screenshots before and after cleaning for comparison.
+- The other data frames do not present any change. Even though they are using updated values after cleaning data, the difference is not significant enough to change the output. Below are the screenshots before and after cleaning for comparison.
 
     - Scores by school spending
     
