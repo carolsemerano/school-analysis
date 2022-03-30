@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview
-This analysis aims to evaluate a school district data to identify if budget, size, and school types affect the students performance. The dataset contains information of 9th to 12th grade students in reading and math. In the data cleansing step, it was necessary remove data from 9th graders from one of the schools in the district, Thomas High School, due to evidences of academic dishonesty. Thus, results will compare the dataframes before and after the data cleansing step. This analysis was made using python library pandas and jupyter notebook. The complete analysis can be found on [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb).
+This analysis aims to evaluate a school district data to identify if budget, size, and school types affect the students performance. The dataset contains information of 9th to 12th grade students in reading and math. In the data cleansing step, it was necessary remove data from 9th graders from one of the schools in the district, Thomas High School, due to evidences of academic dishonesty. Thus, results will compare the data frames before and after the data cleansing step. This analysis was made using python library pandas and jupyter notebook. The complete analysis can be found on [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb).
 
 ## Results
 
